@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
 
-        /* teste int a = 5;
+        /* int a = 5;
         int b = 3;
         System.out.println("Hello World! " + (a+b));*/
     }
